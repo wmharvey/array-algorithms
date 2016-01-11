@@ -1,0 +1,16 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Whitney",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.3.4"
+  }
+}
